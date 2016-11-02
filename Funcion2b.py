@@ -3,7 +3,7 @@ def nn(lista):
 	cont= 0
 	while cont < len(lista):
 		if cont%2==1:
-			li.append(cont)
+			li.append(lista[cont])
 		cont+=1
 	return li
 
