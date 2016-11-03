@@ -1,2 +1,0 @@
-def oo(cadena,veces):
-	
